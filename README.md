@@ -1,7 +1,7 @@
-# portfolio
+# Portfolio
 These are some of the projects I've created during my studies 
 | Project title | Description | Packages
 | -------- | ------- |----------
 | Age prediction  | In this project I trained ResNet50 on APPA-REAL dataset in order to predict age of the customers| Tensorflow, keras, numpy, pandas
-| February | $80     |
-| March    | $420    |
+| Comment moderation | I trained some linear models and gradient boosting models on word embeddings, which I created using pre-trained Toxic-BERT, for binary classification of comments. They could be either offensive or neutral| Tensorflow, nltk, BERT, huggingfaces, numpy, pandas
+|Car price prediction|I performed EDA and trained some regression models on dataset with more than 100 thousand car purchase ads|
